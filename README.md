@@ -9,3 +9,5 @@ country by each date.
 ## Data
 The train data contains data from 22 January to 5 March 2020. “Target” is the number of confirmed
 deaths and “Cases” is the number of reported infections.
+
+**The whole work is detailed in the Notebook**
