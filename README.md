@@ -5,3 +5,7 @@ around the world, with the number of deaths caused by the disease over 5,000. Th
 this project is to build an epidemiological model that predicts the spread of COVID-19 throughout
 the world. The target variable is the cumulative number of deaths caused by COVID-19 in each
 country by each date.
+
+#Data
+The train data contains data from 22 January to 5 March 2020. “Target” is the number of confirmed
+deaths and “Cases” is the number of reported infections.
